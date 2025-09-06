@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library_Management_System
 Overview
 
 This is a simple Java-based Library Management System that simulates basic library operations such as issuing and returning books. The system consists of three classes: Book, Member, and Library. It demonstrates object-oriented programming concepts, including encapsulation and interaction between objects.
